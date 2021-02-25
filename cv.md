@@ -4,3 +4,5 @@ GitHub: https://github.com/VladimirDranitsa
 ---
 ## Full of strength and enthusiasm for growth in the Front-End area
 ---
+### skills: HTML5 / CSS3 / SCSS / Flexbox / Grig (comprehension) / accessibility / responsive design / valid layout /// JavaScript (basics)
+---
