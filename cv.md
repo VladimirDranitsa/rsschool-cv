@@ -8,3 +8,4 @@ GitHub: https://github.com/VladimirDranitsa
 ---
 ` function my() { return 'ready to study'; }`
 ___
+## English - beginner
