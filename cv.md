@@ -29,3 +29,6 @@ Purposeful, energetic, easy to communicate, meticulous in work
 
 ## Course 
 RS School - Junior Software Engineer JavaScript/Front-end.
+
+## English 
+A1 - pre A2 level
